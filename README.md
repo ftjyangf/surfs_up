@@ -1,4 +1,5 @@
-# The purpose of this analysis is to find the temperature difference between year 2010 to 2017 in month of June and December. We have total 9 stations(WAIKIKI,KANEOHE,KUALOA RANCH HEADQUARTERS,PEARL CITY,UPPER WAHIAWA,WAIMANALO EXPERIMENTAL FARM,WAIHEE,HONOLULU OBSERVATORY,MANOA LYON ARBO),which distribute in Hawaii area, to record the temperature and precipitation. At first, we grouped all the data from those stations based on Month of June and Month of December, then we filtered the data based on year of the data and the the station recorded the data. 
+# Purpose of Analysis
+## The purpose of this analysis is to find the temperature difference between year 2010 to 2017 in month of June and December. We have total 9 stations(WAIKIKI,KANEOHE,KUALOA RANCH HEADQUARTERS,PEARL CITY,UPPER WAHIAWA,WAIMANALO EXPERIMENTAL FARM,WAIHEE,HONOLULU OBSERVATORY,MANOA LYON ARBO),which distribute in Hawaii area, to record the temperature and precipitation. At first, we grouped all the data from those stations based on Month of June and Month of December, then we filtered the data based on year of the data and the the station recorded the data. 
 ## Analysis and the Results
 * There are 1517 and 1700 records for Dec and Jun in 2010 to 2017
   * the average temperature about 3.5 higher in Jun than Dec
